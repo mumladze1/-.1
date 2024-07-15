@@ -1,0 +1,10 @@
+.d1{ color: rgb(232, 59, 162);
+margin-left: 600px;
+ }
+.d2{ color: rgb(232, 59, 162);
+    border: 5px;
+    border-color: gold;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 20px;
+}
